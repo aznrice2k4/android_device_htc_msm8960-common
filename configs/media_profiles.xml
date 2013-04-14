@@ -433,7 +433,7 @@
 
     <AudioEncoderCap name="aac" enabled="true"
         minBitRate="8000" maxBitRate="128000"
-        minSampleRate="8000" maxSampleRate="48000"
+        minSampleRate="8000" maxSampleRate="96000"
         minChannels="1" maxChannels="2" />
         
     <AudioEncoderCap name="heaac" enabled="true"
@@ -443,7 +443,7 @@
 
     <AudioEncoderCap name="aaceld" enabled="true"
         minBitRate="16000" maxBitRate="192000"
-        minSampleRate="16000" maxSampleRate="48000"
+        minSampleRate="16000" maxSampleRate="96000"
         minChannels="1" maxChannels="1" />
 
     <AudioEncoderCap name="amrwb" enabled="true"
